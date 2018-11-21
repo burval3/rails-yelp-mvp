@@ -5,7 +5,7 @@ gem 'font-awesome-sass', '~> 5.0.9'
 gem 'simple_form'
 gem 'autoprefixer-rails'
 gem 'jquery-rails'
-
+gem 'faker'
 ruby '2.4.5'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
